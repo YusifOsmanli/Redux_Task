@@ -1,0 +1,37 @@
+.section4__div{
+    width: 100%;
+}
+.shekil__div{
+    width: 100%;
+    position: relative;
+}
+.section4__yazi{
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 650px;
+    height: 300px;
+    gap: 40px;
+    top: 20px;
+}
+.section4__yazi h1{
+    color: white;
+    font-size: 50px;
+}
+.section4__yazi p{
+    color: white;
+    font-size: 30px;
+}
+.section4__yazi button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(202, 202, 26);
+    border: none;
+    border-radius: 4px
+}
+.section4__yazi button:hover{
+    background-color: white;
+}

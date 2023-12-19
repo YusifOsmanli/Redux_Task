@@ -1,0 +1,28 @@
+.content__div{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    padding: 40px 0;
+}
+.section__div{
+    display: flex;
+    gap: 10px;
+    border: 1px solid rgb(203, 201, 201);
+    width: 245px; 
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+}
+.icon__div{
+    display: flex;
+    align-items: center;
+}
+.icon__div i{
+    color: rgb(110, 150, 51);
+    font-size: 36px;
+}
+.content__div2{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
